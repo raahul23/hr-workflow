@@ -106,8 +106,8 @@ Errors are shown with red highlight
 ✅ Mini Map + Zoom
 
 👨‍💻 Developed By
-Raahul Kokki Raahul
-BCA (AI & ML)
+Raahul U
+B.tech Computer Science Engneering  
 Workflow Automation Builder Project
 
 📌 Notes
