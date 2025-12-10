@@ -107,7 +107,7 @@ Errors are shown with red highlight
 
 👨‍💻 Developed By
 Raahul U
-B.tech Computer Science Engneering  
+Computer Science Engineering
 Workflow Automation Builder Project
 
 📌 Notes
